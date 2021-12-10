@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company
+The company that my case study is on is the payment 
 
 * When was the company incorporated?
 
@@ -50,3 +50,10 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources
+1.
+2.
+3.
+4.
+5.
