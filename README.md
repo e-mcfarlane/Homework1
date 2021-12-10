@@ -9,11 +9,8 @@ clearXchange (Zelle) was a private venture between several large banks (Bank of 
 ## Business Activities:
 
 Zelle primarily started to solve the P2P (peer to peer, namely between individuals not institutions) money transfer problem.  Traditionally, individuals would have to give money by exchanging cash or writing one another a check. Other P2P payment servcies, such as ACH deposits, were slow, complex and incurred additional fees. Additionally, because
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-The company's primary target is individuals wishing to send and receive money from one another, however, they have also been diversifying into small business and distributions payments(6). 
+The company's primary target is individuals wishing to send and receive money from one another, however, they have also been diversifying into small business and distributions payments(6). In 2021, Intelligence Insider projects the P2P payment market to be $785 billion dollars, with projected growth to $1.2 trillion by 2024(5). 
 
-![Peer-to-Peer Mobile Payments Forecast](https://contentstorage-nax1.emarketer.com/fd9313ae681dcb2850a0d5834845246a/21701_original_lazy "Figure 1")
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -53,4 +50,5 @@ What solution does this company offer that their competitors do not or cannot of
 4. Early Warning Services, LLC Press Release, Accessed 12/10/21 https://www.earlywarning.com/press-release/early-warning-completes-acquisition-clearxchange
 5. "Zelle records explosive Q2 growth but faces tight competition from peer-to-peer payments rivals" Insider Intelligence, 8/2/21, Accessed 12/10/21 https://www.emarketer.com/content/zelle-records-explosive-q2-growth-faces-tight-competition-peer-to-peer-payments-rivals
 6. "Customer and Businesses Trust Zelle to Send and Recieve High Dollar Transactios in Q3 2021" Zelle Press Release, 11/3/21, Accessed 12/10/21 https://www.zellepay.com/press-releases/consumers-and-businesses-trust-zelle-send-and-receive-high-dollar-transactions-q3
-7. 
+7. "Early Warning Services and The Clearning House Now Enable Zelle Payments on the RTP Network." Zelle Press Release, 2/25/21, Access 12/10/21 https://buffalocareer.com/early-warning-services-and-the-clearing-house-now-enable-zelle-payments-on-the-rtp-network/
+8. "The RTP Network: For All Financial Institutions" The Clearning House website. Accessed 12/10/21 https://www.theclearinghouse.org/payment-systems/rtp/institution
