@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-The company that my case study is on is the payment 
+The company that my case study is on is the mobile payment provider, Zelle.  Zelle itself was launched in 2017(3), however, had been operating since 2011 under the brand clearXchange after being sold to Early Warning Services(1)(2). 
 
 * When was the company incorporated?
 
@@ -10,8 +10,8 @@ The company that my case study is on is the payment
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
 
+clearXchange (Zelle) was a private venture between several large banks(1) and thus was not funded as a typical start-up through the various funding stages.  The Banks that developed clearXchange sold it to Early Warning Services, LLC(4) in 2016 for an undisclosed price and as a privately-held company Early Warning Services has not disclosed how much has been spent to develop clearXchange into what we know today as Zelle.
 
 ## Business Activities:
 
@@ -52,8 +52,8 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 
 ## Sources
-1.
-2.
-3.
-4.
+1. "Big Banks Join Battle for Online Payments." Wall Street Journal, May 22, 2011. Accessed 12/10/21 https://www.wsj.com/articles/SB10001424052702304066504576343870105406768
+2. "New cash transfer service rivals PayPal." CNN Money, May 25, 2011, Access 12/10/21 https://money.cnn.com/2011/05/25/news/companies/banks_paypal_clearxchange/index.htm
+3. "clearXchange® is part of Zelle®, but still available for some consumers receiving disbursements" clearXchange PR 10/19/20 Accesssed 12/10/21 https://www.clearxchange.com/public/clearxchange-is-becoming-zelle
+4. Early Warning Services, LLC Press Release, Accessed 12/10/21 https://www.earlywarning.com/press-release/early-warning-completes-acquisition-clearxchange
 5.
