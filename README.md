@@ -12,7 +12,7 @@ Zelle primarily started to solve the P2P (peer to peer, namely between individua
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 The company's primary target is individuals wishing to send and receive money from one another, however, they have also been diversifying into small business and distributions payments(6). 
 
-[Peer-to-Peer Mobile Payments Forecast](https://contentstorage-nax1.emarketer.com/fd9313ae681dcb2850a0d5834845246a/21701_original_lazy) Figure 1\
+![Peer-to-Peer Mobile Payments Forecast](https://contentstorage-nax1.emarketer.com/fd9313ae681dcb2850a0d5834845246a/21701_original_lazy "Figure 1")
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
