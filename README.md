@@ -38,7 +38,7 @@ The company's primary target is individuals wishing to send and receive money fr
 Going forward, if I were in a position to recommend product/service strategy to Zelle, I would recommend that they expand into the following areas:
 * Cryptocurrency (wallets and perhaps leveraging the existing RTP to handle L2 state channel)
 * ACH support
-* In-store Payments\
+* In-store Payments
 All of these
 * Why do you think that offering this product or service would benefit the company?
 
