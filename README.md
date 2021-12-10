@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-The company that my case study is on is the mobile payment provider, Zelle.  Zelle itself was launched in 2017(3), however, had been operating since 2011 under the brand clearXchange until it was sold to Early Warning Services and rebranded(1)(2)(4). 
+The company that my case study is on is the mobile payment provider, Zelle.  Zelle itself was launched in 2017(3), however, had been operating since 2011 under the brand clearXchange until it was sold to Early Warning Services and rebranded as Zelle(1)(2)(4). 
 clearXchange was developed to directly counter PayPal's electronic money transfer service. According to one of the founders of clearXchange, Mike Kennedy, "Customers want to move payments from paper to electronic methods, so if we can meet our customers' financial needs, they will be better customers with us (1)"
 clearXchange (Zelle) was a private venture between several large banks (Bank of America Corp., Wells Fargo & Co. and J.P. Morgan Chase & Co.(1)) and thus was not funded as a typical start-up through the various funding stages.  The Banks that developed clearXchange sold it to Early Warning Services, LLC(4) in 2016 for an undisclosed price and as a privately-held company Early Warning Services has not disclosed how much has been spent to develop clearXchange into what we know today as Zelle.
 
