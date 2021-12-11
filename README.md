@@ -15,16 +15,17 @@ The company's primary target is individuals wishing to send and receive money fr
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 Zelle currently utilizes the RTP Network(7) which was launched by The Clearing House in November 2017 as a way to bring real-time payments to individuals(8). Modern Treasury describes RTP as a 24/7 instant "push/credit" transfer service to complete with ACH payments and Wire Transfers and offers distinct advantages, such as instant settlement time, "credit" pushes (i.e. no failures due to insufficent funds), year-round availability, and low cost-per payment(9).  RTP is a network similar to ACH or Wire transfer that financial institutions must sign-up for and pay fees on every transfer.
 ## Landscape:
-
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
-
+Zelle operates within the financial payments segment of FinTech. The major trend over the past five to ten years has been mobile and wireless payments.  Zelle has been a leader in mobile P2P payments, but that is not the only area that has seen explosive innovation.  The wireless mobile payments has also seen tremendous growth by some of Zelle's competitors, which are Apple (with Apply Pay and Apple Cash) and Venmo/Paypal.  
 
 ## Results
 
+Overall, Zelle has seen very impressive growth and acheived a very high market share.  In Q3 of 2021, Zelle processed $127 Billion on 466 million transactions(6).  In this segment of FinTech, some key metrics are:
+<ul>
+  <li>total number of transactions, 
+  <li>average transaction amount, 
+  <li>active accounts,
+  <li>and market share
+</ul>
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
@@ -41,7 +42,7 @@ Going forward, if I were in a position to recommend product/service strategy to 
   <li>Institution expansion</li>
 </ul>
 I think these three recommendations represent excellent avenues to acheive revenue and market share growth.  These services are ones that Zelle's competitors offer but Zelle does not offer, has limited exposure to, or has a competative advantage. For example, Venmo/PayPal is rapidly expanding into crypto currencies, "The company is working on integrations for its crypto service, like Automated Clearing House (ACH) support to enable faster payments and the ability to make transfers to third-party wallets. These enhancements, coupled with the company’s decision to raise the weekly crypto purchase limit to $100,000(10)" Zelle has a potential advantage in the space with its owned RTP network to capture the ever-growing interest in and market for crypto currency wallets and trading. <br>
-In regards to institution expansion, currently Zelle is only available in the US and for only 60% of U.S. DDAs (8), wheras Wire Transfers and ACH are universally accepted in US institutions and overseas (in the case of Wire transfers). Expanding into more institutions and attempting expansion outside the US will open Zelle to more customers and revenue. RTP operates on the global standard ISO 20022 which should help limit technical issues should they move to expand outside the United States.
+In regards to institution expansion, currently Zelle is only available in the US and for only 60% of U.S. DDAs (8), wheras Wire Transfers and ACH are universally accepted in US institutions and overseas (in the case of Wire transfers). Expanding into more institutions and attempting expansion outside the US will open Zelle to more customers and revenue. RTP operates on the global standard ISO 20022 which should help limit technical issues should they move to expand outside the United States. 
 
 ## Sources
 1. "Big Banks Join Battle for Online Payments." Wall Street Journal, May 22, 2011. Accessed 12/10/21 https://www.wsj.com/articles/SB10001424052702304066504576343870105406768
@@ -49,7 +50,7 @@ In regards to institution expansion, currently Zelle is only available in the US
 3. "clearXchange® is part of Zelle®, but still available for some consumers receiving disbursements" clearXchange PR 10/19/20 Accesssed 12/10/21 https://www.clearxchange.com/public/clearxchange-is-becoming-zelle
 4. Early Warning Services, LLC Press Release, Accessed 12/10/21 https://www.earlywarning.com/press-release/early-warning-completes-acquisition-clearxchange
 5. "Zelle records explosive Q2 growth but faces tight competition from peer-to-peer payments rivals" Insider Intelligence, 8/2/21, Accessed 12/10/21 https://www.emarketer.com/content/zelle-records-explosive-q2-growth-faces-tight-competition-peer-to-peer-payments-rivals
-6. "Customer and Businesses Trust Zelle to Send and Recieve High Dollar Transactios in Q3 2021" Zelle Press Release, 11/3/21, Accessed 12/10/21 https://www.zellepay.com/press-releases/consumers-and-businesses-trust-zelle-send-and-receive-high-dollar-transactions-q3
+6. "Consumers and Businesses Trust Zelle to Send and Recieve High Dollar Transactios in Q3 2021" Zelle Press Release, 11/3/21, Accessed 12/10/21 https://www.zellepay.com/press-releases/consumers-and-businesses-trust-zelle-send-and-receive-high-dollar-transactions-q3
 7. "Early Warning Services and The Clearning House Now Enable Zelle Payments on the RTP Network." Zelle Press Release, 2/25/21, Access 12/10/21 https://buffalocareer.com/early-warning-services-and-the-clearing-house-now-enable-zelle-payments-on-the-rtp-network/
 8. "The RTP Network: For All Financial Institutions" The Clearning House website. Accessed 12/10/21 https://www.theclearinghouse.org/payment-systems/rtp/institution
 9. "What is RTP?" Modern Treasury. Accessed 12/10/21 https://www.moderntreasury.com/learn/what-is-rtp
