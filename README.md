@@ -29,6 +29,7 @@ The company's primary target is individuals wishing to send and receive money fr
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+One of the best ways to measure success in this domain is market share. 
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -36,12 +37,12 @@ The company's primary target is individuals wishing to send and receive money fr
 ## Recommendations
 
 Going forward, if I were in a position to recommend product/service strategy to Zelle, I would recommend that they expand into the following areas:
-<ol>
+<ul>
   <li>Cryptocurrency transfers and purchasing</li>
   <li>ACH support</li>
   <li>In-store payments</li>
-</ol>
-All of these
+</ul>
+All of three of these services are offerings that Zelle's competitors offer but Zelle does not or has limited exposure to. 
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
