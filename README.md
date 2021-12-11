@@ -10,12 +10,9 @@ clearXchange (Zelle) was a private venture between several large banks (Bank of 
 
 Zelle primarily started to solve the P2P (peer to peer, namely between individuals not institutions) money transfer problem.  Traditionally, individuals would have to give money by exchanging cash or writing one another a check. Other P2P payment servcies, such as ACH deposits, were slow, complex and incurred additional fees. Additionally, because
 The company's primary target is individuals wishing to send and receive money from one another, however, they have also been diversifying into small business and distributions payments(6). In 2021, Intelligence Insider projects the P2P payment market to be $785 billion dollars, with projected growth to $1.2 trillion by 2024(5). 
-
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 Zelle currently utilizes the RTP Network(7) which was launched by The Clearing House in November 2017 as a way to bring real-time payments to individuals(8). Modern Treasury describes RTP as a 24/7 instant "push/credit" transfer service to complete with ACH payments and Wire Transfers and offers distinct advantages, such as instant settlement time, "credit" pushes (i.e. no failures due to insufficent funds), year-round availability, and low cost-per payment(9).  RTP is a network similar to ACH or Wire transfer that financial institutions must sign-up for and pay fees on every transfer.
 ## Landscape:
-Zelle operates within the financial payments segment of FinTech. The major trend over the past five to ten years has been mobile and wireless payments.  Zelle has been a leader in mobile P2P payments, but that is not the only area that has seen explosive innovation.  The wireless mobile payments has also seen tremendous growth by some of Zelle's competitors, which are Apple (with Apply Pay and Apple Cash) and Venmo/Paypal.  
+Zelle operates within the financial payments segment of FinTech. The major trend over the past five to ten years has been mobile and wireless payments.  Zelle has been a leader in mobile P2P payments, but that is not the only area that has seen explosive innovation.  The wireless mobile payments has also seen tremendous growth by some of Zelle's competitors, which are Apple (with Apply Pay and Apple Cash), Square's Cash App, and Paypal's Venmo.  
 
 ## Results
 
@@ -26,13 +23,7 @@ Overall, Zelle has seen very impressive growth and acheived a very high market s
   <li>active accounts,
   <li>and market share
 </ul>
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-One of the best ways to measure success in this domain is market share. 
-
-* How is your company performing relative to competitors in the same domain?
-
+When looking at these metrics, Zelle performs very well.  For example, while Zelle lags in second place (behind a combined PayPay/Venmo) with 35.6% market share, Zelle outperformed Venmo head-to-head in Q2 2021 with $120 billion in transactions vs. Venmo's $58 billion in transactions(5)
 
 ## Recommendations
 
