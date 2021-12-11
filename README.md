@@ -13,8 +13,7 @@ The company's primary target is individuals wishing to send and receive money fr
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-
+Zelle currently utilizes the RTP Network(7) which was launched by The Clearing House in November 2017 as a way to bring real-time payments to individuals(8). Little is known about the exact implementation, however, Modern Treasury describes RTP as (9) a 24/7 instant "push/credit" transfer service to complete with ACH payments and Wire Transfers and offers distinct advantages, such as instant settlement time, "credit" pushes (i.e. no failures due to insufficent funds), and low cost-per payment.
 ## Landscape:
 
 * What domain of the financial industry is the company in?
@@ -41,6 +40,7 @@ Going forward, if I were in a position to recommend product/service strategy to 
   <li>Cryptocurrency transfers and purchasing</li>
   <li>ACH support</li>
   <li>In-store payments</li>
+  <li>Universal bank acceptance</li>
 </ul>
 All of three of these services are offerings that Zelle's competitors offer but Zelle does not or has limited exposure to. 
 * Why do you think that offering this product or service would benefit the company?
@@ -58,3 +58,4 @@ All of three of these services are offerings that Zelle's competitors offer but 
 6. "Customer and Businesses Trust Zelle to Send and Recieve High Dollar Transactios in Q3 2021" Zelle Press Release, 11/3/21, Accessed 12/10/21 https://www.zellepay.com/press-releases/consumers-and-businesses-trust-zelle-send-and-receive-high-dollar-transactions-q3
 7. "Early Warning Services and The Clearning House Now Enable Zelle Payments on the RTP Network." Zelle Press Release, 2/25/21, Access 12/10/21 https://buffalocareer.com/early-warning-services-and-the-clearing-house-now-enable-zelle-payments-on-the-rtp-network/
 8. "The RTP Network: For All Financial Institutions" The Clearning House website. Accessed 12/10/21 https://www.theclearinghouse.org/payment-systems/rtp/institution
+9. "What is RTP?" Modern Treasury. Accessed 12/10/21 https://www.moderntreasury.com/learn/what-is-rtp
