@@ -41,7 +41,8 @@ Going forward, if I were in a position to recommend product/service strategy to 
   <li>In-store payments</li>
   <li>Institution expansion</li>
 </ul>
-All of three of these services are offerings that Zelle's competitors offer but Zelle does not or has limited exposure to. 
+I think these three recommendations represent excellent avenues to acheive revenue and market share growth.  These services are ones that Zelle's competitors offer but Zelle does not offer, has limited exposure to, or has a competative advantage. For example, Venmo/PayPal is rapidly expanding into crypto currencies, "The company is working on integrations for its crypto service, like Automated Clearing House (ACH) support to enable faster payments and the ability to make transfers to third-party wallets. These enhancements, coupled with the company’s decision to raise the weekly crypto purchase limit to $100,000(10)" Zelle has a potential advantage in the space with its owned RTP network to capture the ever-growing interest in and market for crypto currency wallets and trading. <br>
+
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
@@ -58,3 +59,4 @@ All of three of these services are offerings that Zelle's competitors offer but 
 7. "Early Warning Services and The Clearning House Now Enable Zelle Payments on the RTP Network." Zelle Press Release, 2/25/21, Access 12/10/21 https://buffalocareer.com/early-warning-services-and-the-clearing-house-now-enable-zelle-payments-on-the-rtp-network/
 8. "The RTP Network: For All Financial Institutions" The Clearning House website. Accessed 12/10/21 https://www.theclearinghouse.org/payment-systems/rtp/institution
 9. "What is RTP?" Modern Treasury. Accessed 12/10/21 https://www.moderntreasury.com/learn/what-is-rtp
+10. "Venmo and BNPL carry PayPal to Q2 success." Insider Intelligence, Jul 30, 2021. Accessed 12/10/21 https://www.emarketer.com/content/venmo-bnpl-carry-paypal-q2-success?_ga=2.216941142.1740949287.1639093696-2082045096.1639093696
