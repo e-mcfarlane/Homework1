@@ -38,16 +38,10 @@ One of the best ways to measure success in this domain is market share.
 Going forward, if I were in a position to recommend product/service strategy to Zelle, I would recommend that they expand into the following areas:
 <ul>
   <li>Cryptocurrency transfers and purchasing</li>
-  <li>In-store payments</li>
   <li>Institution expansion</li>
 </ul>
 I think these three recommendations represent excellent avenues to acheive revenue and market share growth.  These services are ones that Zelle's competitors offer but Zelle does not offer, has limited exposure to, or has a competative advantage. For example, Venmo/PayPal is rapidly expanding into crypto currencies, "The company is working on integrations for its crypto service, like Automated Clearing House (ACH) support to enable faster payments and the ability to make transfers to third-party wallets. These enhancements, coupled with the company’s decision to raise the weekly crypto purchase limit to $100,000(10)" Zelle has a potential advantage in the space with its owned RTP network to capture the ever-growing interest in and market for crypto currency wallets and trading. <br>
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+In regards to institution expansion, currently Zelle is only available in the US and for only 60% of U.S. DDAs (8), wheras Wire Transfers and ACH are universally accepted in US institutions and overseas (in the case of Wire transfers). Expanding into more institutions and attempting expansion outside the US will open Zelle to more customers and revenue. RTP operates on the global standard ISO 20022 which should help limit technical issues should they move to expand outside the United States.
 
 ## Sources
 1. "Big Banks Join Battle for Online Payments." Wall Street Journal, May 22, 2011. Accessed 12/10/21 https://www.wsj.com/articles/SB10001424052702304066504576343870105406768
